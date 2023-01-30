@@ -27,7 +27,22 @@ header{
     color: whitesmoke;
 }
 .tablebluerow{
-    background-color: aquamarine;
+    background-color: rgb(41, 209, 255, 0.5);
+}
+.footertitle{
+    color: gray;
+}
+.video1{
+    height: 207px;
+    width: 311px;
+    color: whitesmoke;
+    background-image: url(../img/monitor.jpg);
+}
+.video2{
+    height: 207px;
+    width: 311px;
+    color: whitesmoke;
+    background-image: url(../img/graph.jpg);
 }
     
     
