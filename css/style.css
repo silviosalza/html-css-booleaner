@@ -4,8 +4,16 @@
     box-sizing: border-box;
 
 }
-p{
+main,footer{
+    height: 100%;
+    width: 100%;
+    margin: 100px;
+
+}
+
+p, table{
     margin: 10px;
+    width: 1000px;
 }
 
 header{
@@ -19,9 +27,11 @@ header{
 .logo{
     width: 250px;
     margin-top: 60px;
+    margin-left: 100px;
 }
 .articletitle{
     font-size: 250%;
+    width: 1000px;
 }
 #booleaner {
     color: rgb(127, 195, 255);
