@@ -1,7 +1,8 @@
 * {
-    padding: 1px;
-    margin: 0px;
+    padding: 2px;
+    margin: 2px;
     box-sizing: border-box;
+
 }
 
 header{
@@ -21,7 +22,12 @@ header{
 .yellowtext{
     background-color: yellow;
 }
-    
-    
+.table-header{
+    background-color: darkblue;
+    color: whitesmoke;
+}
+.tablebluerow{
+    background-color: aquamarine;
+}
     
     
