@@ -1,8 +1,11 @@
 * {
-    padding: 2px;
-    margin: 2px;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
 
+}
+p{
+    margin: 10px;
 }
 
 header{
@@ -11,6 +14,11 @@ header{
     background-size: contain;
     height: 120px;
 
+}
+
+.logo{
+    width: 200px;
+    margin-top: 70px;
 }
 #booleaner {
     color: rgb(127, 195, 255);
@@ -22,15 +30,23 @@ header{
 .yellowtext{
     background-color: yellow;
 }
+.list{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .table-header{
     background-color: darkblue;
     color: whitesmoke;
+    text-align: left;
 }
 .tablebluerow{
     background-color: rgb(41, 209, 255, 0.5);
 }
 .footertitle{
     color: gray;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 .video1{
     height: 207px;
