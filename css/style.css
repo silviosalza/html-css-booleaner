@@ -17,11 +17,17 @@ header{
 }
 
 .logo{
-    width: 200px;
-    margin-top: 70px;
+    width: 250px;
+    margin-top: 60px;
+}
+.articletitle{
+    font-size: 250%;
 }
 #booleaner {
     color: rgb(127, 195, 255);
+}
+.tim-img{
+    margin: 2px;
 }
 .imgsource{
     font-size:small;
@@ -35,6 +41,7 @@ header{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
 .table-header{
     background-color: darkblue;
     color: whitesmoke;
@@ -52,13 +59,16 @@ header{
     height: 207px;
     width: 311px;
     color: whitesmoke;
+    
     background-image: url(../img/monitor.jpg);
+    margin: 2px;
 }
 .video2{
     height: 207px;
     width: 311px;
     color: whitesmoke;
     background-image: url(../img/graph.jpg);
+    margin: 2px;
 }
     
     
